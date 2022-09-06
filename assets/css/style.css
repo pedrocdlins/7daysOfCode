@@ -1,0 +1,14 @@
+
+@import url("./cabecalho.css");
+
+:root {
+    --fundo-cabeçalho: #FFFFFF;
+    --vermelho-padrao: #8E2424;
+    --cinza-subcabeçalho: #667085;
+    --cinza-cabeçalho: #3A404E;
+    --fonte: "Inter";
+}
+
+body {
+    background: var(--fundo-cabeçalho);
+}
