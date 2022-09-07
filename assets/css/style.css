@@ -1,14 +1,18 @@
 
 @import url("./cabecalho.css");
+@import url("./box-titulo.css");
 
 :root {
     --fundo-cabeçalho: #FFFFFF;
     --vermelho-padrao: #8E2424;
     --cinza-subcabeçalho: #667085;
     --cinza-cabeçalho: #3A404E;
+    --azul-escuro: #101828;
     --fonte: "Inter";
 }
 
 body {
     background: var(--fundo-cabeçalho);
+    width: 1440px;
+    font-family: var(--fonte);
 }

@@ -1,0 +1,29 @@
+.box-titulo {
+    margin: 96px 325px 107px 324px;
+}
+
+.container-titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo {
+    color: var(--vermelho-padrao);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sub__titulo {
+    color: var(--azul-escuro);
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 24px;
+    margin-bottom: 36px;
+}
+
+.texto__titulo {
+    color: var(--cinza-subcabeçalho);
+    font-size: 20px;
+    font-weight: 400;
+}
