@@ -1,0 +1,35 @@
+.container__salários {
+    margin: 64px 336px 96px 336px;
+}
+
+.salários__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: var(--azul-escuro);
+    margin-bottom: 36px;
+}
+
+.salários__lista {
+    border: 1px solid var(--cor-borda);
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    margin-bottom: 24px;
+}
+
+.salários__item {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--azul-escuro);
+    margin-bottom: 32px;
+}
+
+.salários__texto {
+    display: inline;
+    color: var(--cinza-subcabeçalho);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-right: 24px;
+}

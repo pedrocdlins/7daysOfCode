@@ -1,6 +1,11 @@
 
 @import url("./cabecalho.css");
 @import url("./box-titulo.css");
+@import url("./box-dados.css");
+@import url("./box-vagas.css");
+@import url("./salarios.css");
+@import url("./colaboradores.css");
+@import url("./rodape.css");
 
 :root {
     --fundo-cabeçalho: #FFFFFF;
@@ -8,6 +13,10 @@
     --cinza-subcabeçalho: #667085;
     --cinza-cabeçalho: #3A404E;
     --azul-escuro: #101828;
+    --cor-borda: #EAECF0;
+    --cor-fundo-rodape: #F9FAFB;
+    --cor-borda-email: #D0D5DD;
+    --cor-copyright: #98A2B3;
     --fonte: "Inter";
 }
 
